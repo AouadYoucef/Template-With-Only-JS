@@ -1,1 +1,1 @@
-# Template-With-Only-JS
+# Template with only JavaScript
